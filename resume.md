@@ -17,15 +17,15 @@ Technology enthusiast with a strong background in AI, ML, and data, specializing
 
 ## Skills
 
-- **Generative AI & NLP **:  Langchain, OpenAI Chat GPT, Prompt Engineering, VectorDB, Knowledge Graph, Fine Tuning, RAG, Mistral & Llama, LLM, Word2Vec, Spacy, HuggingFace, Transformer, fastText, NLTK
-- **Machine Learning **:  Scikit-learn(Sklearn), Tensorflow, Keras,  Time Series, Regression Analysis, Artificial Neural Network, Decision Tree, Optimization
-- **Data Science **:  Supervised, Unsupervised Algorithms, Regression, Random Forest, Decision Tree, SVM, KNN, K-means, Xgboost, Statistical modeling
-- **Cloud **:  GCP, AWS, Snowflake, Azure, Databrick, GCP AutoML
-- **Data Engineerings **:  SQL (MSSQL, SSMS, SSIS, ETL), Data modeling
-- **Visualization Tools **:  Tableau, PowerBI, R-Shiny, Dash, Streamlit, Excel, Interactive dashboard reports
-- **Programming **:  Python (Flask, Pandas, Numpy, selenium, jupyter-notebook), GoLang, HTML, Javascript
-- **Version control & Deployment **:  Git, GitHub, Docker, REST-API, API management, CICD
-- **Big Data **:  SQOOP, HIVE, Pyspark
+- **Generative AI & NLP**:  Langchain, OpenAI Chat GPT, Prompt Engineering, VectorDB, Knowledge Graph, Fine Tuning, RAG, Mistral & Llama, LLM, Word2Vec, Spacy, HuggingFace, Transformer, fastText, NLTK
+- **Machine Learning**:  Scikit-learn(Sklearn), Tensorflow, Keras,  Time Series, Regression Analysis, Artificial Neural Network, Decision Tree, Optimization
+- **Data Science**:  Supervised, Unsupervised Algorithms, Regression, Random Forest, Decision Tree, SVM, KNN, K-means, Xgboost, Statistical modeling
+- **Cloud**:  GCP, AWS, Snowflake, Azure, Databrick, GCP AutoML
+- **Data Engineerings**:  SQL (MSSQL, SSMS, SSIS, ETL), Data modeling
+- **Visualization Tools**:  Tableau, PowerBI, R-Shiny, Dash, Streamlit, Excel, Interactive dashboard reports
+- **Programming**:  Python (Flask, Pandas, Numpy, selenium, jupyter-notebook), GoLang, HTML, Javascript
+- **Version control & Deployment**:  Git, GitHub, Docker, REST-API, API management, CICD
+- **Big Data**:  SQOOP, HIVE, Spark(Pyspark)
 
 ---
 
