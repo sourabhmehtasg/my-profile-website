@@ -1,7 +1,7 @@
 # Sourabh Mehta
 
 - **Location**: Singapore
-- **Phone**: 90557371
+- **Phone**: XXX-XX
 - **Email**: sourabhmehta64@yahoo.com
 - [LinkedIn](https://www.linkedin.com/in/sourabh-mehta-2ba200108)
 - [Tableau Profile](https://public.tableau.com/app/profile/sourabh6710/viz/SourabhMehtaTableauResume/SourabhMehtaTableauResume?publish=yes)
@@ -11,22 +11,21 @@
 
 ## Summary
 
-Data Science & Data Engineering professional with extensive experience in building end-to-end data solutions. Skilled in database engineering, visualization tools, programming, data science & ML, version control & deployment, cloud platforms, generative AI & NLP, and big data. A result-oriented individual with expertise in project management methodologies such as Agile and Scrum.
+Technology enthusiast with a strong background in AI, ML, and data, specializing in developing end-to-end solutions to scale data projects. A data strategist with over 9 years of experience, including 6+ years in the field of data, data science, and machine learning. My expertise extends to generative AI applications, enabling organizations to harness the power of AI for creative and innovative solutions. Proven record of collaborating with stakeholders, designing technical roadmaps, and mentoring junior team members.
 
 ---
 
 ## Skills
 
-- **Database Engineering**: SQL (MSSQL, SSMS, SSIS, ETL), Dbt, NoSQL
-- **Visualization Tools**: Tableau, PowerBI, R-Shiny, Dash, Streamlit, Excel
-- **Programming**: Python (Flask, Pandas, Numpy, Selenium, Jupyter Notebook), GoLang, HTML, JavaScript
-- **Data Science & ML**: Time Series, Regression Analysis, Artificial Neural Network, Decision Tree, Optimization
-- **Version Control & Deployment**: Git, GitHub, Docker, REST-API, API management, CICD
-- **Cloud**: GCP, AWS, Snowflake, Databrick
-- **Generative AI & NLP**: LLM, Word2Vec, Spacy, Transformer, fastText, NLTK
-- **Big Data**: SQOOP, HIVE
-- **Soft Skills**: Result oriented
-- **Project Management**: Agile Project Management, Scrum, Confluence
+- **Generative AI & NLP **:  Langchain, OpenAI Chat GPT, Prompt Engineering, VectorDB, Knowledge Graph, Fine Tuning, RAG, Mistral & Llama, LLM, Word2Vec, Spacy, HuggingFace, Transformer, fastText, NLTK
+- **Machine Learning **:  Scikit-learn(Sklearn), Tensorflow, Keras,  Time Series, Regression Analysis, Artificial Neural Network, Decision Tree, Optimization
+- **Data Science **:  Supervised, Unsupervised Algorithms, Regression, Random Forest, Decision Tree, SVM, KNN, K-means, Xgboost, Statistical modeling
+- **Cloud **:  GCP, AWS, Snowflake, Azure, Databrick, GCP AutoML
+- **Data Engineerings **:  SQL (MSSQL, SSMS, SSIS, ETL), Data modeling
+- **Visualization Tools **:  Tableau, PowerBI, R-Shiny, Dash, Streamlit, Excel, Interactive dashboard reports
+- **Programming **:  Python (Flask, Pandas, Numpy, selenium, jupyter-notebook), GoLang, HTML, Javascript
+- **Version control & Deployment **:  Git, GitHub, Docker, REST-API, API management, CICD
+- **Big Data **:  SQOOP, HIVE, Pyspark
 
 ---
 
