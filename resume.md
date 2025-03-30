@@ -32,7 +32,7 @@ Experienced Data Science & Analytics Leader with over 10 years in IT and 7 years
 ## Experience
 
 ### Principal Engineer | Data Science, Enginnering & Analytics
-#### KPMG, Singapore
+#### LIDL & KAUFLAND, Singapore
 ##### Feb 2025 - Present
 
 - Leading the team to establish data science, engineering and analytics foundations for the organization, focusing on aligning analytics solutions with business strategy.
