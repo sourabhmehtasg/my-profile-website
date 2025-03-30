@@ -11,7 +11,7 @@
 
 ## Summary
 
-Technology enthusiast with a strong background in AI, ML, and data, specializing in developing end-to-end solutions to scale data projects. A data strategist with over 9 years of experience, including 6+ years in the field of data, data science, and machine learning. My expertise extends to generative AI applications, enabling organizations to harness the power of AI for creative and innovative solutions. Proven record of collaborating with stakeholders, designing technical roadmaps, and mentoring junior team members.
+Experienced Data Science & Analytics Leader with over 10 years in IT and 7 years in data science, specializing in leading teams to deliver high-quality data & analytics solutions. Proven ability to grow and mentor teams, align data strategies with business goals, and enhance decision-making through impactful analytics. Expert in developing end-to-end data pipelines, optimizing processes, and ensuring data quality and consistency. Adept at stakeholder management, strategic planning, and mentoring junior team members with a strong focus on delivering actionable insights.
 
 ---
 
@@ -31,9 +31,26 @@ Technology enthusiast with a strong background in AI, ML, and data, specializing
 
 ## Experience
 
+### Principal Engineer | Data Science, Enginnering & Analytics
+#### KPMG, Singapore
+##### Feb 2025 - Present
+
+- Leading the team to establish data science, engineering and analytics foundations for the organization, focusing on aligning analytics solutions with business strategy.
+- Collaborating with stakeholders to identify business needs and delivering high-impact analytics solutions.
+- Setting up standards and consistency in data processes, ensuring quality and reliability across analytics outputs for data Lakehouse platform.
+
+### Data Science, Enginnering & Analytics Manager
+#### KPMG, Singapore
+##### Mar 2024 - Feb 2025
+
+- Leading a team to establish data science and analytics foundations across the firm, focusing on aligning analytics solutions with business strategy.
+- Collaborating with stakeholders to identify business needs and delivering high-impact analytics solutions.
+- Setting up standards and consistency in data processes, ensuring quality and reliability across analytics outputs.
+
+
 ### Senior Data Science Engineer
 #### Micron Semiconductor, Singapore
-##### Jul 2020 - Present
+##### Jul 2020 - Feb 2024
 
 - Lead innovative AI and ML endeavors in the Smart Mfg. & AI division, focusing on generative AI technologies to streamline supply chain and procurement functions, resulting in significant savings in procurement costs.
 - Designed and delivered projects such as "Risk Analytics," "Supplier Analytics," "Price Tracker," and "Spend Categorization" to optimize material purchase and cost-cutting strategies as part of AI-based procurement & supply chain solutions.
